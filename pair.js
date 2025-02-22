@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "TECH-FSD",
-thumbnailUrl: "https://raw.githubusercontent.com/JAWADXD55/JawadX/refs/heads/main/JAWAD.jpg",
+thumbnailUrl: "https://raw.githubusercontent.com/TECH-FSD-01/PROJECT-FSD/refs/heads/main/images/Senu-MD-Connected.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb4v5Hs5a243djC8eu1p",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "SENU-MD",
-thumbnailUrl: "https://raw.githubusercontent.com/JAWADXD55/JawadX/refs/heads/main/JAWAD.jpg",
+thumbnailUrl: "https://raw.githubusercontent.com/TECH-FSD-01/PROJECT-FSD/refs/heads/main/images/Senu-MD-Connected.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb4v5Hs5a243djC8eu1p",
 mediaType: 2,
 renderLargerThumbnail: true,
